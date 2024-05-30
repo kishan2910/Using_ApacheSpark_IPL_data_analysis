@@ -6,6 +6,10 @@ The aim is to analyze IPL data by building a data pipeline, writing Apache Spark
 https://data.world/raghu543/ipl-data-till-2017
 ```
 
-## Create a AWS S3 bucket and upload these csv files to AWS S3 bucket.
+## Create a AWS S3 bucket "ipl-dataanalysis-spark" and upload these csv files to AWS S3 bucket.
 
-## Create a DataBricks account and Create a Notebook to write a spark session.
+## Create a DataBricks account.
+
+### Create new compute "ipl_project_cluster" 
+
+### Create new Notebook "IPL_DATA_ANALYSIS_SPARK" to write a spark session.
